@@ -81,5 +81,5 @@ function latestPrev() {
 function goToItem(id, mt) {
   localStorage.setItem("result", JSON.stringify({ id: id, media_type: mt }));
 
-  location.href = "movie.htm";
+  location.href = "movie.html";
 }
