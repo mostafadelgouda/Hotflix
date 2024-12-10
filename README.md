@@ -1,6 +1,6 @@
 # Hotflix - Streaming Platform
 
-Hotflix is a full-stack web application for movie enthusiasts to explore trending movies, genres, and their details. Users can enjoy a smooth movie exploration experience with dynamic data fetched using **The Movie Database (TMDb) API**.
+Hotflix is a front-end web application for movie enthusiasts to explore trending movies, genres, and their details. Users can enjoy a smooth movie exploration experience with dynamic data fetched using **The Movie Database (TMDb) API**.
 
 ## Table of Contents
 
