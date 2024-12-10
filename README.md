@@ -15,7 +15,7 @@ Hotflix is a full-stack web application for movie enthusiasts to explore trendin
 
 ## Features
 
-- **Responsive Design\*\***:\*\* Fully responsive and adaptable layout for different devices.
+- **Responsive Design:** Fully responsive and adaptable layout for different devices.
 - **Explore Movies:** View trending movies and discover detailed information.
 - **Data Integration:** Powered by **The Movie Database (TMDb) API** for real-time movie updates..
 
