@@ -67,7 +67,7 @@ Hotflix/
 
 ## Deployment
 
-The project is live and can be accessed at [Hotflix Deployment Link]()
+The project is live and can be accessed at [Hotflix Deployment Link](https://mostafadelgouda.github.io/Hotflix/)
 
 ## Screenshots
 
